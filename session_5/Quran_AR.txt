@@ -1,9 +1,3 @@
-﻿######OpenITI#
-
-#META# source: https://qurananalysis.com/analysis/full-quran-text.php
-
-#META#Header#End#
-
 ### | 1 الفاتحة
 # (1) بسم الله الرحمن الرحيم
 # (2) الحمد لله رب العالمين
